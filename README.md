@@ -15,9 +15,11 @@ Puntos clave:
 ![image](https://github.com/user-attachments/assets/06fb09c6-478b-4e47-9876-b86a31839173)
 
 3.- La edad de 39 años, es donde se generan menos ventas 
+
 ![image](https://github.com/user-attachments/assets/708d9060-2068-425f-ae3d-913e73a25ffc)
 
 y la edad que mas compro es 43 años
+
 ![image](https://github.com/user-attachments/assets/9e1df736-5741-4cc3-a455-79d9ab1ae6dd)
 
 
